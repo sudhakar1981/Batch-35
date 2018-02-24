@@ -1,1 +1,2 @@
-repository configuration
+repoisitory new configuration
+
