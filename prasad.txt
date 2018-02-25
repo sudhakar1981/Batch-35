@@ -1,1 +1,3 @@
-repository configuration
+repoisitory new configuration
+linus torvalds
+
